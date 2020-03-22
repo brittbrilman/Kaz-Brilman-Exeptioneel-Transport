@@ -1,5 +1,5 @@
-<img src="Logo/KBexeptioneeltransport.png" width="1100">
-
-![Logo](Logo/KBexeptioneeltransport.png)
+<p align="center">
+  <img src="Logo/KBexeptioneeltransport.png">
+ </p>
 
 
