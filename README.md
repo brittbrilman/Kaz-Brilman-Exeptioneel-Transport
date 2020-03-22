@@ -1,4 +1,4 @@
-# Kaz-Brilman-Exeptioneel-Transport
+# Kaz Brilman Exeptioneel-Transport
 Webshop voor Kaz Brilman Merchandise
 
 
